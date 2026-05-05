@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Client/Client.csproj" />
+  <Project Path="ConsoleClient/ConsoleClient.csproj" />
+  <Project Path="ConsoleServer/ConsoleServer.csproj" />
+  <Project Path="ImageClient/ImageClient.csproj" />
+  <Project Path="ImageServer/ImageServer.csproj" />
+  <Project Path="LabWork26/LabWork26.csproj" />
+  <Project Path="Server/Server.csproj" />
+</Solution>

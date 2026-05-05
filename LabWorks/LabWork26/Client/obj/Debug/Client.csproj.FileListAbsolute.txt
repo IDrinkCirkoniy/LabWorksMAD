@@ -1,0 +1,7 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\bin\Debug\Client.exe.config
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\bin\Debug\Client.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\bin\Debug\Client.pdb
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\obj\Debug\Client.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Client\obj\Debug\Client.pdb

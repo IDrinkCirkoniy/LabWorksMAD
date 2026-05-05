@@ -1,0 +1,7 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\bin\Debug\ImageClient.exe.config
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\bin\Debug\ImageClient.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\bin\Debug\ImageClient.pdb
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\obj\Debug\ImageClient.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\obj\Debug\ImageClient.csproj.CoreCompileInputs.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\obj\Debug\ImageClient.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageClient\obj\Debug\ImageClient.pdb

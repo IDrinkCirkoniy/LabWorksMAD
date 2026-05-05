@@ -1,0 +1,7 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\bin\Debug\LabWork26.exe.config
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\bin\Debug\LabWork26.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\bin\Debug\LabWork26.pdb
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\obj\Debug\LabWork26.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\obj\Debug\LabWork26.csproj.CoreCompileInputs.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\obj\Debug\LabWork26.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\LabWork26\obj\Debug\LabWork26.pdb

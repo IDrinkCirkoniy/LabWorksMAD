@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="search_hint">Поиск</string>
+    <string name="menu_button">Меню</string>
+    <string name="copyright">© Разработчик. Все права защищены. 2024</string>
+</resources>

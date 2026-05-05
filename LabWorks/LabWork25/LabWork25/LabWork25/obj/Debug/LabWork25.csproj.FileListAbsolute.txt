@@ -1,0 +1,16 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\MainWindow.g.cs
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\App.g.cs
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25_MarkupCompile.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25_MarkupCompile.lref
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\bin\Debug\LabWork25.exe.config
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\bin\Debug\LabWork25.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\bin\Debug\LabWork25.pdb
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\MainWindow.baml
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.g.resources
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.Properties.Resources.resources
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.csproj.GenerateResource.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.csproj.CoreCompileInputs.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork25\LabWork25\obj\Debug\LabWork25.pdb

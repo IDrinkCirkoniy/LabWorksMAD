@@ -1,0 +1,7 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\obj\Debug\ConsoleClient.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ConsoleClient\obj\Debug\ConsoleClient.pdb

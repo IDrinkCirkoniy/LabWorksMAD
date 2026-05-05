@@ -1,0 +1,2 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageServer\obj\Debug\ImageServer.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\ImageServer\obj\Debug\ImageServer.csproj.CoreCompileInputs.cache

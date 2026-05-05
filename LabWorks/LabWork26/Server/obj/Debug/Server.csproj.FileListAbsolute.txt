@@ -1,0 +1,7 @@
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\bin\Debug\Server.exe.config
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\bin\Debug\Server.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\bin\Debug\Server.pdb
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\obj\Debug\Server.exe
+C:\LabWorksMAD\LabWorks\LabWork25\LabWork26\Server\obj\Debug\Server.pdb

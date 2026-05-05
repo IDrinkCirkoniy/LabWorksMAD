@@ -1,0 +1,102 @@
+﻿<Window x:Class="LabWork25.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:LabWork25"
+        Title="Custom Button Demo" 
+        Height="500" Width="800"
+        Background="#2D2D30">
+
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+
+    <ScrollViewer>
+        <StackPanel Margin="20" VerticalAlignment="Center" Background="White">
+
+            <TextBlock Text="Кастомные кнопки WPF" 
+                       FontSize="24" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,20"/>
+
+            <GroupBox Header="Стандартная кнопка" Margin="0,10">
+                <local:CustomButton x:Name="DefaultButton" 
+                                    Text="Нажми меня!"
+                                    BackgroundColor="DodgerBlue"
+                                    HoverColor="DeepSkyBlue"
+                                    PressedColor="CornflowerBlue"
+                                    Width="200" Height="60"
+                                    Margin="10"
+                                    Click="OnButtonClick"/>
+            </GroupBox>
+
+            <GroupBox Header="Красная кнопка с большим скруглением" Margin="0,10">
+                <local:CustomButton x:Name="RedButton" 
+                                    Text="Удалить"
+                                    BackgroundColor="Crimson"
+                                    HoverColor="Red"
+                                    PressedColor="DarkRed"
+                                    TextColor="White"
+                                    FontSize="22"
+                                    CornerRadius="25"
+                                    Width="200" Height="60"
+                                    Margin="10"
+                                    Click="OnButtonClick"/>
+            </GroupBox>
+
+            <GroupBox Header="Зелёная кнопка с мелким шрифтом" Margin="0,10">
+                <local:CustomButton x:Name="GreenButton" 
+                                    Text="Сохранить изменения"
+                                    BackgroundColor="SeaGreen"
+                                    HoverColor="ForestGreen"
+                                    PressedColor="DarkGreen"
+                                    TextColor="LightYellow"
+                                    FontSize="14"
+                                    CornerRadius="5"
+                                    Width="250" Height="50"
+                                    Margin="10"
+                                    Click="OnButtonClick"/>
+            </GroupBox>
+
+            <GroupBox Header="Оранжевая кнопка" Margin="0,10">
+                <local:CustomButton x:Name="OrangeButton" 
+                                    Text="Предупреждение!"
+                                    BackgroundColor="DarkOrange"
+                                    HoverColor="Orange"
+                                    PressedColor="OrangeRed"
+                                    FontSize="18"
+                                    CornerRadius="15"
+                                    Width="220" Height="70"
+                                    Margin="10"
+                                    Click="OnButtonClick"/>
+            </GroupBox>
+
+            <GroupBox Header="Маленькая кнопка" Margin="0,10">
+                <local:CustomButton x:Name="SmallButton" 
+                                    Text="OK"
+                                    BackgroundColor="Purple"
+                                    HoverColor="MediumPurple"
+                                    PressedColor="DarkViolet"
+                                    FontSize="16"
+                                    CornerRadius="8"
+                                    Width="100" Height="40"
+                                    Margin="10"
+                                    Click="OnButtonClick"/>
+            </GroupBox>
+
+            <TextBlock x:Name="ResultLabel" 
+                       Text="Нажмите на любую кнопку..."
+                       FontSize="16"
+                       HorizontalAlignment="Center"
+                       Margin="0,20"
+                       Background="Gray"
+                       Foreground="Black"
+                       Padding="10,5"/>
+
+        </StackPanel>
+    </ScrollViewer>
+</Window>
